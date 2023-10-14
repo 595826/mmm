@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>
+<![CDATA[ https://vip.mq87.cn/cq/cq/f32d928bc40419affa25b9f1ebf97ff6.ipa ]]>
+</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<integer>0</integer>
+<key>url</key>
+<string>
+<![CDATA[ https://vip.mq87.cn/data/image/app/2023/10/14/50ac4d23a6191ac6de73e06c86a78c54.png?v=1697253851 ]]>
+</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>full-size-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>
+<![CDATA[ https://vip.mq87.cn/data/image/app/2023/10/14/50ac4d23a6191ac6de73e06c86a78c54.png?v=1697253851 ]]>
+</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.fgcq.a36302</string>
+<key>bundle-version</key>
+<string>
+<![CDATA[ 1.0 ]]>
+</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>
+<![CDATA[ 龙岭问道沉默 ]]>
+</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
